@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.135768f9.css",
+    "main.js": "/portfolio/static/js/main.98654d6a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/06-big.jpg": "/portfolio/static/media/06-big.783777d4eb6fd888e373.jpg",
+    "static/media/01-big.jpg": "/portfolio/static/media/01-big.ca317a305d0f18cf470d.jpg",
+    "static/media/02-big.jpg": "/portfolio/static/media/02-big.1ab139c7117747020dc2.jpg",
+    "static/media/03-big.jpg": "/portfolio/static/media/03-big.7f3179a79e72bd06765c.jpg",
+    "static/media/05-big.jpg": "/portfolio/static/media/05-big.0ec642091022cb6b7d5a.jpg",
+    "static/media/06.jpg": "/portfolio/static/media/06.0c2dd50bf57fc5645ade.jpg",
+    "static/media/02.jpg": "/portfolio/static/media/02.899044258211f9de1ee3.jpg",
+    "static/media/header-bg.png": "/portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/04-big.jpg": "/portfolio/static/media/04-big.bc5cbe49c0ad35760bff.jpg",
+    "static/media/03.jpg": "/portfolio/static/media/03.c2be28a92f35afc397d7.jpg",
+    "static/media/01.jpg": "/portfolio/static/media/01.130c1f7ab87aae490372.jpg",
+    "static/media/05.jpg": "/portfolio/static/media/05.8a96b042e3cf02b80a17.jpg",
+    "static/media/sun.svg": "/portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/portfolio/index.html",
+    "main.135768f9.css.map": "/portfolio/static/css/main.135768f9.css.map",
+    "main.98654d6a.js.map": "/portfolio/static/js/main.98654d6a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.135768f9.css",
+    "static/js/main.98654d6a.js"
+  ]
+}
