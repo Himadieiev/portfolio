@@ -1,33 +1,23 @@
 import "./styles/main.css";
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Navigate,
-} from "react-router-dom";
-import Navbar from "./components/Navbar/Navbar";
-import Footer from "./components/Footer/Footer";
+import { Routes, Route, Navigate } from "react-router-dom";
 import Home from "./pages/Home";
 import Projects from "./pages/Projects";
 import Contacts from "./pages/Contacts";
 import Project from "./pages/Project";
-import ScrollToTop from "./utils/scrollToTop";
+import Layout from "./components/Layout/Layout";
 
 function App() {
   return (
     <div className="App">
-      <Router>
-        <ScrollToTop />
-        <Navbar />
-        <Routes>
-          <Route path="/" element={<Home />} />
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/project/:id" element={<Project />} />
           <Route path="/contacts" element={<Contacts />} />
           <Route path="/*" element={<Navigate to="/" />} />
-        </Routes>
-        <Footer />
-      </Router>
+        </Route>
+      </Routes>
     </div>
   );
 }
