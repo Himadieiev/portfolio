@@ -21,8 +21,8 @@ My Portfolio App is a web application that showcases my projects, provides my co
 
 To run this application locally, follow these steps:
 
-1. Clone the repository: git clone https://github.com/yourusername/your-portfolio-app.git
-2. Change directory to the project folder: cd your-portfolio-app
+1. Clone the repository: git clone https://github.com/Himadieiev/portfolio.git
+2. Change directory to the project folder: cd portfolio
 3. Install dependencies: npm install or yarn install (if applicable)
 4. Start the application: npm start or yarn start (if applicable)
 5. Open your web browser and go to http://localhost:3000 to view the app.
