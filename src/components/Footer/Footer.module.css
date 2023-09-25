@@ -43,3 +43,11 @@
     width: 28px;
   }
 }
+
+.social__item {
+  transition: scale 0.2s ease-out;
+}
+
+.social__item:hover {
+  scale: 1.1;
+}

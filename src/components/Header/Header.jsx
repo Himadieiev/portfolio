@@ -16,11 +16,12 @@ const Header = () => {
           <p>with passion for learning and creating.</p>
         </div>
         <a
-          href="./../../img/Ruslan_Himadieiev_Junior Front-End Developer.pdf"
-          download="Ruslan_Himadieiev_Junior_Front-End_Developer.pdf"
+          href="https://www.linkedin.com/in/ruslan-himadieiev-32416b271/overlay/1635541764899/single-media-viewer/?profileId=ACoAAEJozgwB3ciXmG-8bIdBKmB5nD8S19DuB48"
+          target="_blank"
+          rel="noopener noreferrer"
           className={css.btn}
         >
-          Download CV
+          CV Link
         </a>
       </div>
     </header>

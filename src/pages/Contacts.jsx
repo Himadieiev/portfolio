@@ -18,9 +18,21 @@ const Contacts = () => {
             </a>
           </li>
           <li className="content-list__item">
-            <h2 className="title-2">Telegram, Viber, WhatsApp</h2>
+            <h2 className="title-2">Phone</h2>
             <p>
               <a href="tel:+380633711454">+38 (063) 371-14-54</a>
+            </p>
+          </li>
+          <li className="content-list__item">
+            <h2 className="title-2">Telegram</h2>
+            <p>
+              <a
+                href="https://t.me/ruslan_him"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                @ruslan_him
+              </a>
             </p>
           </li>
           <li className="content-list__item">

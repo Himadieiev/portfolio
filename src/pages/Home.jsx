@@ -21,6 +21,10 @@ const Home = () => {
               <h2 className="title-2">Backend Skills</h2>
               <p>Node.js, Express, REST API, MongoDB, Mongoose</p>
             </li>
+            <li className="content-list__item">
+              <h2 className="title-2">Hobbies</h2>
+              <p>Table Tennis, Chess, Football</p>
+            </li>
           </ul>
         </div>
       </main>

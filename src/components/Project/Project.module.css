@@ -3,6 +3,12 @@
   background-color: var(--project-card-bg);
   box-shadow: var(--box-shadow);
   border-radius: 10px;
+  transition: scale 0.2s ease-out;
+}
+
+.project:hover,
+.project:focus {
+  scale: 1.05;
 }
 
 .project__img {
