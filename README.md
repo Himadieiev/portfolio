@@ -15,7 +15,7 @@ My Portfolio App is a web application that showcases my projects, provides my co
 - HTML
 - CSS
 - JavaScript
-- React.js (optional, if applicable)
+- React
 
 ## Installation
 
@@ -36,8 +36,8 @@ To run this application locally, follow these steps:
 
 ## Contact
 
-Email: gimadejev86@gmail.com
-LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ruslan-himadieiev-32416b271/)
-GitHub: [My GitHub Profile](https://github.com/Himadieiev)
+- Email: gimadejev86@gmail.com
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ruslan-himadieiev-32416b271/)
+- GitHub: [My GitHub Profile](https://github.com/Himadieiev)
 
 Feel free to explore the app and reach out to me with any questions or opportunities for collaboration. Thanks for visiting my portfolio!
