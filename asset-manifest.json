@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.59cf88e2.css",
-    "main.js": "/portfolio/static/js/main.a098613e.js",
+    "main.js": "/portfolio/static/js/main.fb2ab823.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/06-big.jpg": "/portfolio/static/media/06-big.783777d4eb6fd888e373.jpg",
+    "static/media/Ruslan_Himadieiev_Junior_Front-End_Developer.pdf": "/portfolio/static/media/Ruslan_Himadieiev_Junior_Front-End_Developer.745cc9b17f90adb7c1f7.pdf",
     "static/media/01-big.jpg": "/portfolio/static/media/01-big.ca317a305d0f18cf470d.jpg",
     "static/media/02-big.jpg": "/portfolio/static/media/02-big.1ab139c7117747020dc2.jpg",
     "static/media/03-big.jpg": "/portfolio/static/media/03-big.7f3179a79e72bd06765c.jpg",
@@ -21,11 +22,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "main.59cf88e2.css.map": "/portfolio/static/css/main.59cf88e2.css.map",
-    "main.a098613e.js.map": "/portfolio/static/js/main.a098613e.js.map",
+    "main.fb2ab823.js.map": "/portfolio/static/js/main.fb2ab823.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59cf88e2.css",
-    "static/js/main.a098613e.js"
+    "static/js/main.fb2ab823.js"
   ]
 }
