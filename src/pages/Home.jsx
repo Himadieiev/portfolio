@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-import Header from "../components/Header/Header";
+import Header from '../components/Header/Header';
 
 const Home = () => {
   return (
@@ -13,8 +13,8 @@ const Home = () => {
             <li className="content-list__item">
               <h2 className="title-2">Frontend Skills</h2>
               <p>
-                HTML, CSS, SCSS, JavaScript, React, Redux, REST API, GIT,
-                Tailwind
+                HTML, CSS, SASS, Tailwind, JavaScript, React, Redux, TypeScript, REST API, NPM, GIT,
+                GitHub, GitLab
               </p>
             </li>
             <li className="content-list__item">
