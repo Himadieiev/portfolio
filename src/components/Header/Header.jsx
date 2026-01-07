@@ -1,7 +1,7 @@
 import React from "react";
 
 import css from "./Header.module.css";
-import cv from "../../Ruslan_Himadieiev_Junior_Front-End_Developer.pdf";
+import cv from "../../Ruslan_Himadieiev_Front-End_Developer.pdf";
 
 const Header = () => {
   return (
