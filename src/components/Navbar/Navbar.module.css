@@ -20,10 +20,15 @@
   color: var(--nav-text);
   font-size: 24px;
   font-family: "Poppins", sans-serif;
+  transition: all 0.2s ease-in;
 }
 
 .logo strong {
   font-weight: 700;
+}
+
+.logo:hover {
+  color: var(--accent);
 }
 
 .navList {
@@ -39,11 +44,11 @@
 
 .navList__link {
   color: var(--nav-text);
-  transition: opacity 0.2s ease-in;
+  transition: all 0.2s ease-in;
 }
 
 .navList__link:hover {
-  opacity: 0.8;
+  color: var(--accent);
 }
 
 .navList__link_active {

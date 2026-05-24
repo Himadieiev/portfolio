@@ -7,15 +7,16 @@
   padding: 12px 20px;
 
   border-radius: 5px;
-  border: 1px solid #000;
-  background-color: #fff;
-  color: #000;
+  border: 1px solid var(--black);
+  background-color: var(--white);
+  color: var(--black);
 
-  transition: opacity 0.2s ease-in;
+  transition: all 0.2s ease-in;
 }
 
 .btnOutline:hover {
-  opacity: 0.8;
+  background-color: var(--accent);
+  color: var(--white);
 }
 
 .btnOutline:active {

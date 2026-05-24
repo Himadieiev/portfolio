@@ -1,18 +1,21 @@
 .project {
+  height: 360px;
   max-width: 370px;
   background-color: var(--project-card-bg);
   box-shadow: var(--box-shadow);
   border-radius: 10px;
-  transition: scale 0.2s ease-out;
+  transition: all 0.2s ease-out;
 }
 
 .project:hover,
 .project:focus {
-  scale: 1.05;
+  box-shadow: var(--box-shadow-2);
 }
 
 .project__img {
-  border-radius: 10px;
+  height: 291px;
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
 }
 
 .project__title {
