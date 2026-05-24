@@ -1,12 +1,12 @@
 import React from "react";
-import { useParams } from "react-router-dom";
+import {useParams} from "react-router-dom";
 
-import { projects } from "../helpers/projectsList";
+import {projects} from "../helpers/projectsList";
 import BtnGitHub from "../components/BtnGitHub/BtnGitHub";
 import BtnWebsiteLink from "../components/BtnWebsiteLink/BtnWebsiteLink";
 
 const Project = () => {
-  const { id } = useParams();
+  const {id} = useParams();
   const project = projects[id];
 
   return (
@@ -15,18 +15,13 @@ const Project = () => {
         <div className="project-details">
           <h1 className="title-1">{project.title}</h1>
 
-          <img
-            src={project.imgBig}
-            alt={project.title}
-            className="project-details__cover"
-          />
+          <img src={project.imgBig} alt={project.title} className="project-details__cover" />
 
           <div className="project-details__desc">
-            <p>Used: {project.skills}</p>
-            <p className="project-details__desc--format">
-              Project format: {project.format}
+            <p>
+              <span className="project-details__desc--used">Used:</span> {project.skills}
             </p>
-            <p>Role: {project.role}</p>
+            <p className="project-details__desc--format">Project format: {project.format}</p>
           </div>
           <div className="project-details__btnList">
             <BtnGitHub link={project.gitHubLink} />
